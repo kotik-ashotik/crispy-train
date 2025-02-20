@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://thumbs.dfs.ivi.ru/storage33/contents/6/9/c976e5989127c678faf32072bd848f.jpg/858x483/?q=85);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+div {
+    background-color: rgb(0, 191, 255);
+    border: 5px solid blue;
+    width: 700px;
+    margin: auto;
+    padding: 10px;
+    img {
+        width: 100%;
+        border-radius: 5px;
+    }
+}

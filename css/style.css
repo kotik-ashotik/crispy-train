@@ -1,0 +1,18 @@
+body {
+    background-image: url(https://static.okko.tv/images/v4/1026ade1-33b9-47a5-8766-ecaa54cf4445?presetId=4000&width=1200&height=630&scale=1&quality=80);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+div {
+    background-color: rgb(153, 0, 255);
+    border: 5px solid rgb(0, 0, 0);
+    width: 700px;
+    margin: auto;
+    padding: 10px;
+    img {
+        width: 100%;
+        border-radius: 5px;
+    }
+}
